@@ -18,8 +18,6 @@ I am an **Embedded Systems** and **Firmware Engineering** enthusiast with a tech
 
 - 🔧 Currently deep-diving into the **STM32** ecosystem.
 - 🔋 Passionate about **Low Power Design** and Wearables.
-- 📈 Studying **Digital Signal Processing (DSP)** on ARM processors.
-- 🇧🇷 Based in Rio de Janeiro, Brazil.
 
 ### 🛠️ Tech Stack & Tools
 
