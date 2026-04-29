@@ -1,8 +1,16 @@
 # Hi, I'm Alessandro! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whittejr&show_icons=true&theme=tokyonight&count_private=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=1a1b26" alt="Alessandro's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whittejr&layout=compact&theme=tokyonight&hide=html,css&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=1a1b26" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=whittejr&show_icons=true&theme=tokyonight&count_private=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=1a1b26" alt="Alessandro's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whittejr&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=1a1b26&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 🚀 About Me
