@@ -33,7 +33,3 @@ A dedicated study and implementation of Digital Signal Processing algorithms opt
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-davi-9161ba234/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ale.rebelo48@gmail.com)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whittejr&theme=tokyonight&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-</div>
